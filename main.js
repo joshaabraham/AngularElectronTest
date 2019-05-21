@@ -12,9 +12,7 @@ function createWindow () {
   })
 
 
-  win.loadURL(`file://${__dirname}/dist/index.html`)
-
-
+  win.loadURL(`file://${__dirname}/dist/AngularElectronTest/index.html`)
 
 
   //// uncomment below to open the DevTools.
